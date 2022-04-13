@@ -136,7 +136,7 @@ Your Trial key has expired=您的**試用**密鑰已過期
 Your Trial key requires an internet connection=您的**試用**密鑰要求聯網
 
 ; Sysdevs text - added May 18, 2020
-A reboot is required to apply changes=需要重啟才能應用更改
+A reboot is required to apply changes=需要重啟才能套用更改
 ALERT=警報
 Bind selected to VFIO at Boot=在引導時對VFIO 選擇了綁定
 CPU Thread Pairings=CPU 線程配對
