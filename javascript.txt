@@ -1,5 +1,5 @@
 also remove image=也移除映像
-Apply=應用
+Apply=套用
 Are you sure=是否確定？
 Cancel=取消
 checking=正在查看
