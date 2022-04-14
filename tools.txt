@@ -7,7 +7,7 @@ Anonymize diagnostics=匿名診斷
 Anytime=隨時
 Archived Notifications=存檔的通知
 Are you sure=是否確定
-Array has been Reset=陣列已**重置**
+Array has been Reset=陣列已**重置** 
 Array must be Started to change permissions=陣列必須**啟動**才能更改權限
 Array must be Stopped to change=陣列必須**停止**才能更改
 Array slots=陣列插槽
@@ -20,7 +20,7 @@ By using this software, you agree with our=使用此軟件，即表示您同意�
 Cache slots=緩存插槽
 Cannot connect to key-server=無法連接到密鑰服務器
 Check for Updates=檢查更新
-click Install Key=點擊<i>安裝密鑰</i>
+click Install Key=點擊<i>安裝密鑰</i> 
 collecting diagnostic information this may take several minutes=正在收集診斷信息（這可能需要幾分鐘）
 Component=組件
 Credits=致謝
@@ -35,7 +35,7 @@ Downloading=下載中
 End-User License Agreement=最終用戶許可協議
 Enter URL of language pack XML file=輸入語言包XML 文件的URL 地址
 Error accessing your physical USB Flash boot device=訪問物理USB 閃存引導設備時出錯
-EULA=EULA
+EULA=EULA 
 Event=事件
 Expiration=到期時間
 Extend=延長
@@ -50,8 +50,8 @@ Install Language=安裝語言
 Install=安裝
 Installed languages=已安裝的語言
 Invalid Trial Installation=無效的*試用*安裝
-It will collect all of the system hardware information, remove any serial numbers, and securely upload it to LimeTech=它將收集所有系統硬件信息，移除所有序列號，然後將其安全地上載到LimeTech
-Key file URL=密鑰文件URL
+It will collect all of the system hardware information, remove any serial numbers, and securely upload it to LimeTech=它將收集所有系統硬件信息，移除所有序列號，然後將其安全地上載到LimeTech 
+Key file URL=密鑰文件URL 
 Language support added=語言支持已添加
 Language support deleted=語言支持已刪除
 Language=語言
@@ -80,7 +80,7 @@ Purchase Key=購買密鑰
 Registered GUID=GUID 已註冊
 Registered on=註冊於
 Registered to=註冊到
-registering USB Flash GUID=正在註冊USB 閃存GUID
+registering USB Flash GUID=正在註冊USB 閃存GUID 
 Release has been withdrawn=發布已撤回
 Remove the installed language=移除安裝的語言
 Replaceable=可更換
@@ -97,8 +97,8 @@ Subject=主題
 System Devices=系統設備
 System Update Check=系統更新檢查
 Text=文本
-Thank you for choosing Unraid OS=感謝您選擇Unraid OS
-Thank you for registering USB Flash GUID=感謝您註冊USB 閃存的GUID
+Thank you for choosing Unraid OS=感謝您選擇Unraid OS 
+Thank you for registering USB Flash GUID=感謝您註冊USB 閃存的GUID 
 Thank you for trying Unraid OS=感謝您試用Unraid OS
 The registered GUID does not match the USB Flash boot device GUID=註冊的GUID 與USB 閃存引導設備GUID 不匹配
 There is a physical problem accessing your USB Flash boot device=訪問USB 閃存引導設備時出現物理問題
@@ -110,7 +110,7 @@ This utility is used for troubleshooting purposes=此實用程序用於故障排
 This will delete all notification files=這將刪除所有通知文件
 This will update folder file permissions=這將更新文件夾/文件權限
 Time=時間
-To install a registration key, paste the key file URL in the box below and click Install Key=要安裝註冊密鑰，請將密鑰文件URL 粘貼在下面的框中，然後單擊**安裝密鑰**
+To install a registration key, paste the key file URL in the box below and click Install Key=要安裝註冊密鑰，請將密鑰文件URL 粘貼在下面的框中，然後單擊**安裝密鑰** 
 to select your language=選擇您的語言
 Trial key expires on=**試用**密鑰過期日期為
 Trial=試用
@@ -135,18 +135,18 @@ Your hardware profile was last submitted on=您的硬件配置文件最後一次
 Your Trial key has expired=您的**試用**密鑰已過期
 Your Trial key requires an internet connection=您的**試用**密鑰要求聯網
 
-; Sysdevs text - added May 18, 2020
-A reboot is required to apply changes=需要重啟才能套用更改
+; Sysdevs text - added May 18, 2020 
+A reboot is required to apply changes=需要重啟才能應用更改
 ALERT=警報
 Bind selected to VFIO at Boot=在引導時對VFIO 選擇了綁定
 CPU Thread Pairings=CPU 線程配對
 Changes saved=更改已保存
-Function Level Reset FLR supported=支持功能級復位(FLR)
+Function Level Reset FLR supported=支持功能級復位(FLR) 
 In use by Unraid=Unraid 正在使用
-Kernel driver in use vfio-pci=使用的內核驅動程序vfio-pci
+Kernel driver in use vfio-pci=使用的內核驅動程序vfio-pci 
 No changes=無更改
 PCI Devices and IOMMU Groups=PCI 設備和IOMMU 組
-PCI Devices No IOMMU Groups Available=PCI 設備(沒有可用的IOMMU 組)
+PCI Devices No IOMMU Groups Available=PCI 設備(沒有可用的IOMMU 組) 
 Reboot to take effect=重啟以生效
 SCSI Devices=SCSI 設備
 The below list doesnt not reflect the way IOMMU would naturally group devices=下面的列表沒有反映IOMMU 對設備進行自然分組的方式
@@ -161,39 +161,39 @@ Your system has booted with the PCIe ACS Override setting enabled=您的系統�
 隨後，此文件可以包含在您與Limetech 或UnRAID 論壇的通信中。
 
 這有助於其他人快速獲取您系統的內部信息，並為您的問題提供更好的支持。將收集以下信息
-和配置文件:
-:end
+和配置文件: 
+:end 
 
-:diagnostics_2_plug:
-+ */config*
+:diagnostics_2_plug: 
++ */config* 
 <br>複製所有的*\*.cfg* 文件、*go* 文件和*super.dat* 文件。這些都是是配置文件。
-+ */config/shares*
++ */config/shares* 
 <br>複製所有的*\*.cfg* 文件。這些是用戶共享設置文件。
-+ *Syslog file(s)*
++ *Syslog file(s)* 
 <br>複製當前的*syslog* 文件和以前存在的任何*syslog* 文件。
-+ *System*
++ *System* 
 <br>保存以下命令的輸出：
 <br>lsscsi、lspci、lsusb、free、lsof、ps、ethtool 和ifconfig。
 <br>顯示IOMMU 組。
 <br>顯示命令行參數（例如PCIe ACS 覆蓋、PCI 存根等）。
 <br>保存系統變量。
-+ *SMART reports*
++ *SMART reports* 
 <br>保存系統中存在的每個磁盤的SMART 報告。
-+ *Docker*
++ *Docker* 
 <br>保存文件*docker.log*、*libvirtd.log*、*libvirt/qemu/\*.log* 和*vfio-pci*。
-:end
+:end 
 
 :diagnostics_3_plug:
 單擊**下載**將啟動採集過程，然後指示您的瀏覽器將zip 文件保存到本地。
 
 *不包括任何個人信息，如用戶名、密碼或上面未指定的任何其他文件內容
-通過UnRAID OS；但是，您的服務器名稱、IP 地址和用戶共享名稱**將**包括在內。*
+通過UnRAID OS；但是，您的服務器名稱、IP 地址和用戶共享名稱**將**包括在內。* 
 
 *請注意第三方插件**可能**也許不會將個人信息存儲在插件特定的配置文件和/或
 系統日誌輸出中。*
 
-在公共論壇上發布診斷文件時*使用* **匿名診斷**。*在與Limetech 的私人通信中，建議取消選中此設置，並捕獲所有未更改的信息。*
-:end
+在公共論壇上發布診斷文件時*使用* **匿名診斷**。*在與Limetech 的私人通信中，建議取消選中此設置，並捕獲所有未更改的信息。* 
+:end 
 
 :newconfig_plug:
 該實用程序用於重置陣列磁盤配置，以使所有磁盤都顯示為“新”磁盤，
@@ -206,7 +206,7 @@ Your system has booted with the PCIe ACS Override setting enabled=您的系統�
 
 **請勿使用此實用程序，因為它會重建故障驅動器** —— 它將產生相反的效果，
 將***無法***重建現有的故障驅動器—— 您已受到警告！
-:end
+:end 
 
 :newperms_1_plug:
 從5.0 之前的Unraid 服務器版本升級到Unraid v5 或更高版本之後，必須執行這項一次性操作。
@@ -218,7 +218,7 @@ Your system has booted with the PCIe ACS Override setting enabled=您的系統�
 該實用程序將啟動一個後台進程，該進程將訪問每個數據磁盤和緩存磁盤，
 選擇用戶共享並將文件和目錄所有權更改為*無人/用戶*（即uid / gid 更改為99/100），
 並按以下方式設置權限：
-:end
+:end 
 
 :newperms_2_plug:
 對於目錄：
@@ -228,8 +228,8 @@ drwxrwxrwx
 -rw-rw-rw-
 
 對於只讀文件：
--r--r--r--
-:end
+-r--r--r-- 
+:end 
 
 :newperms_3_plug:
 單擊**開始**將打開另一個窗口並啟動後台進程。
@@ -237,7 +237,7 @@ drwxrwxrwx
 在完成之前關閉窗口將終止後台進程- 因此請不要這樣做。如果您有許多文件，則此進程可能耗時較長。
 
 請注意，如果允許包含您的應用數據共享，則此工具可能會對Docker 容器產生不利影響。
-:end
+:end 
 
 :registration_1_plug:
 在您購買註冊密鑰或安裝免費的30 天**試用**密鑰之前，您的服務器將無法可用。
@@ -247,12 +247,12 @@ drwxrwxrwx
 為1GB 的優質品牌設備。
 
 注意：通常**不**支持USB 存儲卡讀卡器，因為大多數讀卡器不提供唯一的序列號。
-:end
+:end 
 
-:registration_2_plug:
+:registration_2_plug: 
 + 請確保您的[服務器時間](DateTime) 精確到5分鐘以內。
 + 請確保指定[DNS 服務器](NetworkSettings) 。
-:end
+:end 
 
 :registration_3_plug:
 您的**試用**密鑰包括**Pro** 註冊密鑰的所有功能和設備支持。
@@ -260,13 +260,13 @@ drwxrwxrwx
 在您的**試用**密鑰到期後，您的服務器**仍能正常工作**，直到您下次**停止**陣列為止。
 
 此時，您可以購買註冊密鑰，也可以請求延長**試用**。
-:end
+:end 
 
 :registration_4_plug:
 要繼續使用UnRAID OS，您可以購買註冊密鑰。也可以申請**試用**延期密鑰。
 
 大多數**試用**延期請求都會立即處理，但請給我們最多一個工作日接收您的**試用**延期密鑰。
-:end
+:end 
 
 :registration_5_plug:
 無法在現有的UnRAID OS 安裝中使用**試用**密鑰。
@@ -274,7 +274,7 @@ drwxrwxrwx
 您可以購買與此USB 閃存設備對應的註冊密鑰以繼續使用此安裝。
 
 要了解更多信息，請[聯繫支持人員](https://lime-technology.com/contact)。
-:end
+:end 
 
 :registration_6_plug:
 您的註冊密鑰文件似乎已損壞或丟失。密鑰文件應位於
@@ -283,13 +283,13 @@ drwxrwxrwx
 如果您沒有註冊密鑰文件的備份副本，請[聯繫支持人員](https://lime-technology.com/contact)。
 
 如果這是**試用**安裝，您可以購買註冊密鑰。
-:end
+:end 
 
-:registration_7_plug:
+:registration_7_plug: 
 **試用**安裝僅適用於最初註冊的USB 閃存設備。
 
 若要在此USB 閃存設備上繼續使用此安裝，您可以購買註冊密鑰。
-:end
+:end 
 
 :registration_8_plug:
 註冊密鑰文件與USB 閃存引導設備不相符。
@@ -301,7 +301,7 @@ drwxrwxrwx
 替換密鑰，請[聯繫支持人員](https://lime-technology.com/contact)。
 
 **注意：**替換註冊密鑰會導致以前的USB 閃存GUID 被永久**列入黑名單**。
-:end
+:end 
 
 :registration_9_plug:
 此USB 閃存引導設備已被**列入黑名單**。這可能是由於您的註冊密鑰傳輸到
